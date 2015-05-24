@@ -20,4 +20,5 @@ Machine Learning and Adaptive Intelligence, 2012
 - [Lecture 13](./assets/l13_gaussianProcesses.pdf)
 
 [Tutorial](./assets/tutorialOne.pdf)
+
 [Assignment](./assets/assignmentOne.pdf)
