@@ -8,5 +8,16 @@ url: "http://inverseprobability.com/" # the base hostname & protocol for your si
 twitter_username: lawrennd
 github_username:  lawrennd
 
+ghub:
+  edit: true
+  repository: mlai2012
+
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: ndltalk
+
 # Build settings
 markdown: kramdown
